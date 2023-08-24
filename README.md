@@ -16,4 +16,4 @@ https://huggingface.co/spaces/Iceclear/StableSR/tree/main
 https://huggingface.co/Iceclear/StableSR
 
 ## Output
-
+![image](https://github.com/camenduru/StableSR-colab/assets/54370274/3c16a563-f957-4379-b118-7da6d36c3039)
