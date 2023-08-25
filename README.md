@@ -9,8 +9,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/StableSR-colab/blob/main/StableSR_colab.ipynb) | StableSR_colab (Pro High-RAM)
 
 ## Main Repo
-https://github.com/IceClear/StableSR
-https://huggingface.co/spaces/Iceclear/StableSR/tree/main
+https://github.com/IceClear/StableSR <br />
+https://huggingface.co/spaces/Iceclear/StableSR/tree/main <br />
 
 ## Model
 https://huggingface.co/Iceclear/StableSR
